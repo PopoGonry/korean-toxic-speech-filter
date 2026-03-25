@@ -1,0 +1,16 @@
+# Large local datasets
+datasets/
+
+# Python cache/venv
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Training artifacts
+results/
+
+# Local secrets/config
+.env
+config.json
+filtering_chat_app/config.json
